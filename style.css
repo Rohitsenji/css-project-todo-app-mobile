@@ -281,6 +281,8 @@ h5 a{
         border-radius: 50%;
         color: var(--white);
         background: var(--skyblue);
+        margin-right: 35vw;
+
     }
     
     .addNewtask{
